@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 5028fd8dbd627402dadce6725a789b6b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: girl
+    100002: Head
+    100004: HeadTop_End
+    100006: Hips
+    100008: //RootNode
+    100010: LeftArm
+    100012: LeftFoot
+    100014: LeftForeArm
+    100016: LeftHand
+    100018: LeftHandIndex1
+    100020: LeftHandIndex2
+    100022: LeftHandIndex3
+    100024: LeftHandIndex4
+    100026: LeftLeg
+    100028: LeftShoulder
+    100030: LeftToe_End
+    100032: LeftToeBase
+    100034: LeftUpLeg
+    100036: Neck
+    100038: RightArm
+    100040: RightFoot
+    100042: RightForeArm
+    100044: RightHand
+    100046: RightHandIndex1
+    100048: RightHandIndex2
+    100050: RightHandIndex3
+    100052: RightHandIndex4
+    100054: RightLeg
+    100056: RightShoulder
+    100058: RightToe_End
+    100060: RightToeBase
+    100062: RightUpLeg
+    100064: Spine
+    100066: Spine1
+    100068: Spine2
+    400000: girl
+    400002: Head
+    400004: HeadTop_End
+    400006: Hips
+    400008: //RootNode
+    400010: LeftArm
+    400012: LeftFoot
+    400014: LeftForeArm
+    400016: LeftHand
+    400018: LeftHandIndex1
+    400020: LeftHandIndex2
+    400022: LeftHandIndex3
+    400024: LeftHandIndex4
+    400026: LeftLeg
+    400028: LeftShoulder
+    400030: LeftToe_End
+    400032: LeftToeBase
+    400034: LeftUpLeg
+    400036: Neck
+    400038: RightArm
+    400040: RightFoot
+    400042: RightForeArm
+    400044: RightHand
+    400046: RightHandIndex1
+    400048: RightHandIndex2
+    400050: RightHandIndex3
+    400052: RightHandIndex4
+    400054: RightLeg
+    400056: RightShoulder
+    400058: RightToe_End
+    400060: RightToeBase
+    400062: RightUpLeg
+    400064: Spine
+    400066: Spine1
+    400068: Spine2
+    2100000: lambert273
+    2100002: lambert278
+    2100004: blinn3
+    2100006: lambert277
+    2100008: lambert275
+    2100010: lambert274
+    2100012: lambert236
+    2100014: lambert227
+    2100016: lambert217
+    2100018: lambert229
+    2100020: lambert219
+    2100022: lambert238
+    2100024: lambert231
+    2100026: lambert240
+    2100028: lambert241
+    2100030: lambert239
+    2100032: lambert230
+    2100034: lambert242
+    2100036: lambert237
+    4300000: girl
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: girl
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

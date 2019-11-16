@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Numpy.Bare</id>
+    <version>3.7.1.10</version>
+    <authors>Meinrad Recheis</authors>
+    <owners>Meinrad Recheis</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/SciSharp/Numpy.NET/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/SciSharp/Numpy.NET</projectUrl>
+    <iconUrl>https://github.com/SciSharp/Numpy.NET/blob/master/doc/img/numpy.net.icon128.png?raw=true</iconUrl>
+    <description>C# bindings for NumPy on Win64 - a fundamental library for scientific computing, machine learning and AI. Does require Python 3.7 with NumPy 1.16 installed!</description>
+    <copyright>2019 - Meinrad Recheis</copyright>
+    <tags>Data science, Machine Learning, AI, Scientific Computing, NumPy, Linear Algebra, FFT, SVD, Matrix, Python</tags>
+    <repository url="https://github.com/SciSharp/Numpy.NET" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.CSharp" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="Python.Runtime.NETStandard" version="3.7.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

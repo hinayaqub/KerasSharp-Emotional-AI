@@ -1,0 +1,1004 @@
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\mscorlib.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\System.Core.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\System.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\System.Xml.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityScript.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Abubakar\Downloads\FinalUnityProject1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Abubakar\Downloads\FinalUnityProject1\obj\Debug\Assembly-CSharp.dll
+C:\Users\Abubakar\Downloads\FinalUnityProject1\obj\Debug\Assembly-CSharp.pdb
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\mscorlib.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\System.Core.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\System.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\System.Xml.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.Locator.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEditor.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityScript.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.Cecil.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.DataContract.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEditor.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Unity Projects\FinalUnityProject1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Unity Projects\FinalUnityProject1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Unity Projects\FinalUnityProject1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Unity Projects\FinalUnityProject1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Unity Projects\FinalUnityProject1\obj\Debug\Assembly-CSharp.dll
+E:\Unity Projects\FinalUnityProject1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\mscorlib.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Core.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\System.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Xml.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityScript.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mamuna\Desktop\ABC\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\mscorlib.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Core.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\System.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Xml.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityScript.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\New folder (3)\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\mscorlib.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Core.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\System.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Xml.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityScript.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mamuna\Desktop\Recent\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\mscorlib.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Core.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\System.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Xml.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityScript.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.dll
+C:\Users\Abubakar\Documents\GitHub\Emotional-AI\Emotional AI\obj\Debug\Assembly-CSharp.pdb
